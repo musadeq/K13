@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541883613199",
+    "firebase_url": "https://skola-ae6a4.firebaseio.com",
+    "project_id": "skola-ae6a4",
+    "storage_bucket": "skola-ae6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541883613199:android:2ecdc4df71c70be7",
+        "android_client_info": {
+          "package_name": "com.nyx_itech.k13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541883613199-tv6b8e11s9o29o8q7u1snlbhpf09oe7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmj5hhiojkp25B2oN-Cn1ujhaqcaMuI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
